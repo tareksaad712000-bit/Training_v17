@@ -2,7 +2,7 @@
 {
     'name': "Real_Estate",
 
-    'summary': "Short (1 phrase/line) summary of the module's purpose",
+    'summary': "real estate ",
 
     'description': """
 Long description of module's purpose
@@ -18,7 +18,7 @@ Long description of module's purpose
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base'],
+    'depends': ['base','hr'],
 
     # always loaded
     'data': [
